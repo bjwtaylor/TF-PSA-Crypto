@@ -1,3 +1,3 @@
 [submodule "framework"]
 	path = framework
-	url = https://github.com/Mbed-TLS/mbedtls-framework
+	url = git@github.com:bjwtaylor/mbedtls-framework.git
