@@ -17,6 +17,7 @@
 
 #include "mbedtls/private/cipher.h"
 #include "mbedtls/private/error_common.h"
+#include "mbedtls/platform.h"
 
 #include <string.h>
 
